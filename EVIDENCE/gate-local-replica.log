@@ -1,0 +1,9 @@
+PASS dashboard_files — 3 files, 36909 bytes
+PASS board_file — 226 rows
+PASS sorted_by_value — ranks 1..226: true, non-increasing: true, varied: true
+PASS coverage — 40/40 watchlist covered
+PASS farm_steps — all 226 rows 3-12 steps, 20-600 chars
+PASS screenshots — 3 images: 1-board.png 163484B, 2-detail.png 233974B, 3-filtered.png 159727B
+PASS dossier_matches — dossier 781215 bytes, byte-identical rebuild: true
+GATE: 7/7 PASS (local replica; sealed scorer runs on server)
+gate exit: 0

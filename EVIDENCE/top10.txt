@@ -1,0 +1,10 @@
+  1 steakhouse-financial     implied $1,179,271,760  cat Risk Curators mult 0.4241 TVL $2,753,981,495
+  2 gauntlet                 implied $696,944,048  cat Risk Curators mult 0.4241 TVL $1,577,685,462
+  3 veda                     implied $208,136,203  cat Onchain Capital Allocator mult 0.1314 TVL $1,563,415,482
+  4 usdd                     implied $159,148,000  cat CDP mult 0.1690 TVL $1,055,793,606
+  5 nonce-capital            implied $152,165,772  cat Risk Curators mult 0.4241 TVL $513,783,671
+  6 rockawayx                implied $110,683,445  cat Risk Curators mult 0.4241 TVL $292,506,628
+  7 hyperithm                implied $92,503,632  cat Risk Curators mult 0.4241 TVL $221,638,535
+  8 k3-capital               implied $83,650,714  cat Risk Curators mult 0.4241 TVL $207,711,162
+  9 hive-protocol            implied $77,963,928  cat Chain mult 0.4288 TVL $198,776,765
+ 10 upshift                  implied $72,743,946  cat Onchain Capital Allocator mult 0.1314 TVL $499,083,733
